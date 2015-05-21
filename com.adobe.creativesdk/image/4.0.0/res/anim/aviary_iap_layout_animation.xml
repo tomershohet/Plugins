@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layoutAnimation xmlns:android="http://schemas.android.com/apk/res/android"
+    android:animation="@anim/aviary_slide_in_top"
+    android:delay="10%" >
+</layoutAnimation><!-- From: file:/Users/crugnola/Documents/git/aviary/Android-SDK/aviary-sdk/src/main/res/anim/aviary_iap_layout_animation.xml --><!-- From: file:/D:/work/Feb_2015/CreativeSDKRoot/creativesdk/CreativeSDKImage/src/main/res/anim/aviary_iap_layout_animation.xml -->

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/nonblank"
+	style="@style/AviaryWidget.BottomBar.GalleryItem.Container">
+
+    <include layout="@layout/aviary_gallery_item_divider" />
+
+    <ImageView
+        android:focusable="false"
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layerType="software"
+        android:scaleType="centerInside" />
+
+</RelativeLayout><!-- From: file:/Users/crugnola/Documents/git/aviary/Android-SDK/aviary-sdk/src/main/res/layout/aviary_gallery_item_view.xml --><!-- From: file:/D:/work/Feb_2015/CreativeSDKRoot/creativesdk/CreativeSDKImage/src/main/res/layout/aviary_gallery_item_view.xml -->

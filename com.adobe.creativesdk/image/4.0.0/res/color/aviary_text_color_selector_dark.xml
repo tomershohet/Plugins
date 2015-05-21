@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:state_pressed="true" android:color="@android:color/black"></item>
+	<item android:state_selected="true" android:color="@android:color/black"></item>
+	<item android:state_pressed="false" android:color="#FF555555"></item>
+</selector><!-- From: file:/Users/crugnola/Documents/git/aviary/Android-SDK/aviary-sdk/src/main/res/color/aviary_text_color_selector_dark.xml --><!-- From: file:/D:/work/Feb_2015/CreativeSDKRoot/creativesdk/CreativeSDKImage/src/main/res/color/aviary_text_color_selector_dark.xml -->

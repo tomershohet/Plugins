@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/work/Feb_2015/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/values-de/strings.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_view_no_internet_connection">Keine Internetverbindung</string>
+    <string name="adobe_common_error_view_unknown_authenticate_error">Bei der Authentifizierung ist ein Fehler aufgetreten.\nVersuchen Sie es später erneut.</string>
+    <string name="creative_cloud">Creative Cloud</string>
+    <string name="creative_sdk">Creative SDK</string>
+</resources>

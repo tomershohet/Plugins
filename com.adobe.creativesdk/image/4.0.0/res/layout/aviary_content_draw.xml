@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="gone" >
+
+    <com.aviary.android.feather.sdk.widget.ImageViewTouchAndDraw
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="matrix" />
+
+	<include layout="@layout/aviary_lens_button" />
+
+</RelativeLayout><!-- From: file:/Users/crugnola/Documents/git/aviary/Android-SDK/aviary-sdk/src/main/res/layout/aviary_content_draw.xml --><!-- From: file:/D:/work/Feb_2015/CreativeSDKRoot/creativesdk/CreativeSDKImage/src/main/res/layout/aviary_content_draw.xml -->

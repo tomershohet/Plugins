@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/work/Feb_2015/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/values-sw600dp/dimens.xml -->
+    <eat-comment/>
+    <integer name="adobe_auth_view_height">50</integer>
+</resources>

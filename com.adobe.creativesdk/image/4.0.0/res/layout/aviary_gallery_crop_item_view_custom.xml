@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nonblank"
+    style="@style/AviaryWidget.BottomBar.GalleryItem.Container" >
+
+    <include layout="@layout/aviary_gallery_item_divider" />
+
+    <com.aviary.android.feather.sdk.widget.AviaryTextView
+        android:id="@+id/text"
+        style="@style/AviaryWidget.BottomBar.GalleryItem.Crop.TextView.Custom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true" />
+
+</RelativeLayout><!-- From: file:/Users/crugnola/Documents/git/aviary/Android-SDK/aviary-sdk/src/main/res/layout/aviary_gallery_crop_item_view_custom.xml --><!-- From: file:/D:/work/Feb_2015/CreativeSDKRoot/creativesdk/CreativeSDKImage/src/main/res/layout/aviary_gallery_crop_item_view_custom.xml -->

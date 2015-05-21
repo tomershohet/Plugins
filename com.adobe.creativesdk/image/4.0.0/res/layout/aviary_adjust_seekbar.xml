@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	style="?attr/aviaryBottomBarOptionPanelContainerStyle"
+	android:gravity="center"
+	android:orientation="horizontal"
+	android:weightSum="100" >
+
+	<include layout="@layout/aviary_button_minus" />
+
+	<SeekBar
+		android:id="@+id/aviary_seekbar"
+		android:layout_width="0dip"
+		android:layout_height="wrap_content"
+		android:minHeight="18dip"
+		android:maxHeight="18dip"
+		android:paddingLeft="15dip"
+		android:paddingRight="15dip"
+		android:splitTrack="false"
+		android:thumb="@drawable/aviary_seekbar_thumb"
+		android:progressDrawable="@drawable/adjust_seekbar_progress"
+		android:layout_weight="@integer/aviary_seekbar_weight"/>
+
+	<include layout="@layout/aviary_button_plus" />
+
+</LinearLayout><!-- From: file:/Users/crugnola/Documents/git/aviary/Android-SDK/aviary-sdk/src/main/res/layout/aviary_adjust_seekbar.xml --><!-- From: file:/D:/work/Feb_2015/CreativeSDKRoot/creativesdk/CreativeSDKImage/src/main/res/layout/aviary_adjust_seekbar.xml -->

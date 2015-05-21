@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+	android:shape="rectangle">
+	<gradient
+		android:angle="270"
+		android:startColor="@color/aviary_material_primary_dark_translucent"
+		android:endColor="@android:color/transparent"
+		android:type="linear"></gradient>
+</shape><!-- From: file:/Users/crugnola/Documents/git/aviary/Android-SDK/aviary-sdk/src/main/res/drawable/aviary_toolbar_translucent_background.xml --><!-- From: file:/D:/work/Feb_2015/CreativeSDKRoot/creativesdk/CreativeSDKImage/src/main/res/drawable/aviary_toolbar_translucent_background.xml -->

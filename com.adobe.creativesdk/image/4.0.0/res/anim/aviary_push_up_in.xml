@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="@integer/aviary_shortAnimTime"
+    android:fromYDelta="100%p"
+    android:startOffset="100"
+    android:toYDelta="0%p" />
+<!-- From: file:/Users/crugnola/Documents/git/aviary/Android-SDK/aviary-sdk/src/main/res/anim/aviary_push_up_in.xml --><!-- From: file:/D:/work/Feb_2015/CreativeSDKRoot/creativesdk/CreativeSDKImage/src/main/res/anim/aviary_push_up_in.xml -->

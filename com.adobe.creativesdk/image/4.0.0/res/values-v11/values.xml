@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/work/Feb_2015/CreativeSDKRoot/creativesdk/CreativeSDKImage/src/main/res/values-v11/values.xml -->
+    <eat-comment/>
+    <integer name="aviary_feature_image_cycle_time">10000</integer>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.aviary.android.feather.sdk.widget.AdjustImageView xmlns:android="http://schemas.android.com/apk/res/android"
+	style="@style/AviaryWidget.AdjustImageView"
+	android:id="@+id/aviary_overlay"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:padding="20dip" />
+
+<!-- From: file:/Users/crugnola/Documents/git/aviary/Android-SDK/aviary-sdk/src/main/res/layout/aviary_content_adjust.xml --><!-- From: file:/D:/work/Feb_2015/CreativeSDKRoot/creativesdk/CreativeSDKImage/src/main/res/layout/aviary_content_adjust.xml -->

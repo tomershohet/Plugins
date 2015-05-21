@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/adobe_csdk_actionbar_cc_logo"
+        android:left="6dp"
+        android:top="1px"
+        android:right="1dp"/>
+
+</layer-list><!-- From: file:/D:/work/Feb_2015/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/drawable/adobe_csdk_theme_actionbar_icon.xml -->

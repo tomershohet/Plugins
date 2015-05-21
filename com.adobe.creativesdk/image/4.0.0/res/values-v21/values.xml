@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/work/Feb_2015/CreativeSDKRoot/creativesdk/CreativeSDKImage/src/main/res/values-v21/values.xml -->
+    <eat-comment/>
+    <style name="AviaryTheme.Dark.Transition">
+		<item name="android:windowContentTransitions">true</item>
+	</style>
+    <style name="AviaryWidget.BottomBar.ViewFlipper">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">?aviaryBottomBarHeight</item>
+		<item name="android:animationCache">true</item>
+		<item name="android:autoStart">false</item>
+		<item name="android:animateFirstView">true</item>
+		<item name="android:persistentDrawingCache">animation</item>
+		<item name="android:inAnimation">@anim/aviary_bottobar_in_animation</item>
+		<item name="android:outAnimation">@anim/aviary_bottobar_out_animation</item>
+		<item name="android:animationDuration">@android:integer/config_mediumAnimTime</item>
+		<item name="android:interpolator">@android:interpolator/linear</item>
+		<item name="vra_alwaysUseFallbackAnimations">true</item>
+	</style>
+    <style name="AviaryWidget.Button" parent="@style/AviaryWidget.TextView">
+		<item name="android:textAppearance">?attr/aviaryTextAppearance</item>
+		<item name="aviary_typeface">?attr/aviaryFontRegular</item>
+		<item name="android:background">@drawable/aviary_blue_button_background</item>
+		<item name="android:textColor">@color/aviary_button_text_color</item>
+		<item name="android:maxLines">1</item>
+		<item name="android:focusable">true</item>
+		<item name="android:clickable">true</item>
+		<item name="android:paddingLeft">12dip</item>
+		<item name="android:paddingRight">12dip</item>
+		<item name="android:paddingTop">14dip</item>
+		<item name="android:paddingBottom">14dip</item>
+		<item name="android:gravity">center_vertical|center_horizontal</item>
+		<item name="android:textColorLink">@color/aviary_link_text_default_inverted</item>
+	</style>
+</resources>
